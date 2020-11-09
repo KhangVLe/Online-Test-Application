@@ -1,0 +1,19 @@
+
+.option{
+    background-color:#dcf374;
+    font-size:30px;
+    font-weight:bold;
+    padding:20px;
+    margin:7px;
+}
+    #quiz .options input[type=checkbox] {
+        height:22px;
+        width:22px;
+    }
+
+.result-question{
+    background-color:#ffffc2;
+    font-size:15;
+    margin:4px;
+    padding:6px;
+}
